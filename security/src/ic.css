@@ -1,0 +1,41 @@
+.ic-describe{
+    border: 1px solid red;
+}
+
+.summary{
+    margin: 0 25%;
+    text-align: left;
+  }
+
+ .options{
+     border: 1px solid red;
+     display: flex;
+     align-items: center;
+     justify-content: space-evenly;
+     flex-wrap: wrap;
+ } 
+
+ .options h3{
+     padding: 0 10px;
+ }
+
+.contact{
+    border: 1px solid red;
+    cursor: pointer;
+}
+
+.symptom{
+    border: 1px solid red;
+    cursor: pointer;
+}
+
+.quarantine{
+    border: 1px solid red;
+    cursor: pointer;
+}
+
+ /* Mobile Styles */
+@media only screen and (max-width: 600px) {
+
+
+}
