@@ -28,7 +28,7 @@ class Header extends Component {
                 <div className="perptrac">
                     <Link to="/main">
                         <div className="title-logo">
-                            <h1>TrailTracker</h1>
+                            <h1>B-HOUND</h1>
                             {/* <i class="fas fa-map-marker-alt faa-pulse animated"></i> */}
                             <i class="fas fa-map-pin faa-pulse animated" />
                         </div>
